@@ -30,18 +30,28 @@
 
 I'm a web developer focused on building dynamic, responsive applications with **React** and modern **JavaScript**. I enjoy translating ideas into interfaces that feel clear, fast, and easy to use.
 
-My learning is project-led — I build, test, refine, and keep improving the fundamentals behind every decision. I'm currently pursuing my **B.Tech in Electronics and Communication Engineering** (2024–2027) at **Ramachandra College of Engineering**, India.
+My learning is project-led — I build, test, refine, and keep improving the fundamentals behind every decision.
+
+🎓 Electronics & Communication Engineering student with a strong interest in both software development and embedded systems.
+
+💻 Web Developer passionate about building scalable and user-friendly applications using modern web technologies.
+
+📚 Currently learning **Node.js** and expanding my backend development skills.
+
+🔧 Interested in building real-world **Embedded Systems and IoT** projects, combining hardware, sensors, microcontrollers, and software to solve practical problems.
+
+🚀 Building hands-on projects to strengthen my skills in web development, embedded systems, and IoT.
+
+🤝 Open to internships, collaborations, and open-source contributions.
+
+⚡ **Fun Fact:** I convert ☕ into ⚙️ and bugs into features.
+
+I'm currently pursuing my **B.Tech in Electronics and Communication Engineering** (2024–2027) at **Ramachandra College of Engineering**, India.
 
 - 🎯 **Currently focused on:** React, JavaScript fundamentals, and problem-solving
 - ✨ **Open to:** Internship opportunities where I can contribute, learn, and ship real software
 - 📍 **Based in:** India, working async-first
 - 💬 **Ask me about:** React, JavaScript, or frontend implementation problems
-
-<!-- Optional extras — fill in if you'd like to include them
-- 🌱 Currently learning: [e.g. TypeScript, Node.js/Express]
-- 🏆 Achievements: [certifications, hackathons, etc.]
-- 🎉 Fun fact: [something memorable about you]
--->
 
 ---
 
